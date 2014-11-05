@@ -12,6 +12,11 @@ Je beschikt over goede analytische vaardigheden en je bent actief bezig met het 
 - Bamboo bouwt onze builds (CI!)
 - Steven monitort (branch-)coverage met Sonar
 
+## Wat jij met ons gaat ontwikkelen
+- onze frontend (js) refactoren. We willen knockout.js upgraden of vervangen.
+- biedingen volgen elkaar razend snel op. We updaten kavels door te pollen maar we zouden hier graag push notificaties voor willen gebruiken.
+- backend (Java) tests/code refactoren en verbeteren
+
 ## Functie eisen
 - afgeronde opleiding op HBO/WO niveau (bijvoorbeeld Informatica)
 - ervaring met JS en/of Java. Goed met Knockout/React = +1
