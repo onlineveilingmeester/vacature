@@ -16,6 +16,7 @@ Je beschikt over goede analytische vaardigheden en je bent actief bezig met het 
 - onze frontend (js) refactoren. We willen knockout.js upgraden of vervangen.
 - biedingen volgen elkaar razend snel op. We updaten kavels door te pollen maar we zouden hier graag push notificaties voor willen gebruiken.
 - backend (Java) tests/code refactoren en verbeteren
+- de beheerkant van onze website is aan vernieuwing toe, de layout hiervan moet in zijn geheel geupdate worden
 
 ## Functie eisen
 - afgeronde opleiding op HBO/WO niveau (bijvoorbeeld Informatica)
