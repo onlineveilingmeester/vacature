@@ -1,4 +1,4 @@
-# Functie omschrijving Onlineveilingmeester.nl
+# Web developen bij Onlineveilingmeester.nl
 
 Als web developer bij onlineveilingmeester.nl ben je betrokken bij het ontwikkelen en onderhouden van ons veilplatform (http://www.onlineveilingmeester.nl).
 
