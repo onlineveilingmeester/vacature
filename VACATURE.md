@@ -26,3 +26,7 @@ We onderscheiden de volgende product/service groepen:
 - Uitvoeren van taxaties.
 
 De organisatie telt momenteel 23 vaste medewerkers. Voor het uitvoeren van logistieke werkzaamheden bij veilingen huren we afhankelijk van de bedrijfsdrukte medewerkers in.
+
+## Dit is perfecte werkplek voor mij!
+
+Stuur een mail naar anne-willem@onlineveilingmeester.nl en we nodigen je uit voor een bakje koffie!
