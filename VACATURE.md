@@ -14,7 +14,7 @@ Je beschikt over goede analytische vaardigheden en je bent actief bezig met het 
 
 ## Functie eisen
 - afgeronde opleiding op HBO/WO niveau (bijvoorbeeld Informatica)
-- ervaring met 
+- ervaring met JS en/of Java. Goed met Knockout/React = +1
 - gedreven en ambitieuze persoonlijkheid
 - goede communicatieve en sociale vaardigheden
 
