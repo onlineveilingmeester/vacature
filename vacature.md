@@ -1,23 +1,22 @@
 # Functie omschrijving Onlineveilingmeester.nl
 
-Als web developer bij onlineveilingmeester.nl ben je betrokken bij het ontwikkelen en onderhouden van ons veilplatform.
+Als web developer bij onlineveilingmeester.nl ben je betrokken bij het ontwikkelen en onderhouden van ons veilplatform (http://www.onlineveilingmeester.nl).
 
 Je beschikt over goede analytische vaardigheden en je bent actief bezig met het bijhouden en verbeteren van je eigen kennis en vaardigheden. Daarnaast ben je communicatief vaardig en bekijk je zaken vanuit een gebruikersperspectief. Je kunt goed zelfstandig werken, maar bent ook . Je hebt een hoog verantwoordelijkheidsgevoel en bent in staat gestelde deadlines te halen.
-Het betreft een fulltime functie van 40 uur per week
 
 ## Hoe webdevelopen wij
 - ondanks ons nog kleine development team gebruiken wij SCRUM om features te plannen
 - we besparen werkt door SaaS producten te gebruiken, zoals Algolia, Cloudfront, Mandrill, NewRelic
 - Ansible om onze servers in te richten
+- Github om onze code te hosten
 - Bamboo bouwt onze builds (CI!)
-- Steven monitort (branch) coverage met Sonar
+- Steven monitort (branch-)coverage met Sonar
 
 ## Functie eisen
-
 - afgeronde opleiding op HBO/WO niveau (bijvoorbeeld Informatica)
+- ervaring met JS en/of Java
 - gedreven en ambitieuze persoonlijkheid
 - goede communicatieve en sociale vaardigheden
-- goede beheersing van Java ontwikkeltools en omgevingen
 
 ## Bedrijfsprofiel
 
