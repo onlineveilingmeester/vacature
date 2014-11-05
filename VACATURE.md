@@ -2,7 +2,7 @@
 
 Als webdeveloper bij onlineveilingmeester.nl ben je betrokken bij het ontwikkelen en onderhouden van ons veilingplatform (https://www.onlineveilingmeester.nl).
 
-Je beschikt over goede analytische vaardigheden en je bent actief bezig met het bijhouden en verbeteren van je eigen kennis en vaardigheden. Daarnaast ben je communicatief vaardig en bekijk je zaken vanuit een gebruikersperspectief. Je kunt goed zelfstandig als in een team werken. Je hebt een hoog verantwoordelijkheidsgevoel en bent in staat gestelde deadlines te halen.
+Je beschikt over goede analytische vaardigheden en je bent actief bezig met het bijhouden en verbeteren van je eigen kennis en vaardigheden. Daarnaast ben je communicatief vaardig en bekijk je zaken vanuit een gebruikersperspectief. Je kunt zowel goed zelfstandig als in een team werken. Je hebt een hoog verantwoordelijkheidsgevoel en bent in staat gestelde deadlines te halen.
 
 ## Hoe webdevelopen wij
 - ondanks ons nog kleine development team gebruiken wij SCRUM om features te plannen
