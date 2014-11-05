@@ -1,12 +1,12 @@
 # Web developen bij Onlineveilingmeester.nl
 
-Als web developer bij onlineveilingmeester.nl ben je betrokken bij het ontwikkelen en onderhouden van ons veilplatform (http://www.onlineveilingmeester.nl).
+Als webdeveloper bij onlineveilingmeester.nl ben je betrokken bij het ontwikkelen en onderhouden van ons veilingplatform (https://www.onlineveilingmeester.nl).
 
-Je beschikt over goede analytische vaardigheden en je bent actief bezig met het bijhouden en verbeteren van je eigen kennis en vaardigheden. Daarnaast ben je communicatief vaardig en bekijk je zaken vanuit een gebruikersperspectief. Je kunt goed zelfstandig werken, maar bent ook . Je hebt een hoog verantwoordelijkheidsgevoel en bent in staat gestelde deadlines te halen.
+Je beschikt over goede analytische vaardigheden en je bent actief bezig met het bijhouden en verbeteren van je eigen kennis en vaardigheden. Daarnaast ben je communicatief vaardig en bekijk je zaken vanuit een gebruikersperspectief. Je kunt goed zelfstandig als in een team werken. Je hebt een hoog verantwoordelijkheidsgevoel en bent in staat gestelde deadlines te halen.
 
 ## Hoe webdevelopen wij
 - ondanks ons nog kleine development team gebruiken wij SCRUM om features te plannen
-- we besparen werkt door SaaS producten te gebruiken, zoals Algolia, Cloudfront, Mandrill, NewRelic
+- we besparen werk door SaaS producten te gebruiken, zoals Algolia, Cloudfront, Mandrill, NewRelic
 - Ansible om onze servers in te richten
 - Github om onze code te hosten
 - Bamboo bouwt onze builds (CI!)
