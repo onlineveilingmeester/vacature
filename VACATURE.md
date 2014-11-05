@@ -20,7 +20,7 @@ Je beschikt over goede analytische vaardigheden en je bent actief bezig met het 
 
 ## Bedrijfsprofiel
 
-Onlineveilingmeester.nl is een jong en dynamisch bedrijf (yup!) dat veilingen van roerende & onroerende goederen via internet organiseert. Wij zijn gevestigd in Groningen en actief in heel Nederland. Het bedrijf heeft in de afgelopen jaren een duidelijke positie verworven op de Nederlandse markt voor online veilingen van goederen.
+Onlineveilingmeester.nl is een jong en dynamisch bedrijf dat veilingen van roerende & onroerende goederen via internet organiseert. Wij zijn gevestigd in Groningen en actief in heel Nederland. Het bedrijf heeft in de afgelopen jaren een duidelijke positie verworven op de Nederlandse markt voor online veilingen van goederen.
 We onderscheiden de volgende product/service groepen:
 - Organiseren van online veilingen. De goederen zijn afkomstig uit bedrijfsovernames, bedrijfsbeëindigingen, reorganisaties, overtollige voorraden, nalatenschappen, faillissementen en vrijwillige verkoop.
 - Uitvoeren van taxaties.
