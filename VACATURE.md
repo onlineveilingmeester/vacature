@@ -1,4 +1,4 @@
-# Web developen bij Onlineveilingmeester.nl
+# Webdevelopen bij Onlineveilingmeester.nl
 
 Als webdeveloper bij onlineveilingmeester.nl ben je betrokken bij het ontwikkelen en onderhouden van ons veilingplatform (https://www.onlineveilingmeester.nl).
 
