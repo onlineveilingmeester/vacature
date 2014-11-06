@@ -36,3 +36,5 @@ De organisatie telt momenteel 23 vaste medewerkers. Voor het uitvoeren van logis
 ## Dit is de perfecte werkplek voor mij!
 
 Stuur een mail naar vacature@onlineveilingmeester.nl en we nodigen je uit voor een bakje koffie!
+
+Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld.
